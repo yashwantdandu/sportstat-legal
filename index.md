@@ -1,5 +1,5 @@
 # SportStat
 
-Support: your-email
+Support: your-email-here
 
 [Privacy Policy](privacy)
