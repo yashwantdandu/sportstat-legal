@@ -1,6 +1,6 @@
 # SportStat Privacy Policy
 
-**Last updated:** 3 October 2026
+**Last updated:** 11 October 2026
 **Contact:** app.sportstat@gmail.com
 
 > DRAFT for your review. It is written from what the app does today. Have it checked
@@ -22,22 +22,40 @@ weight that you add to your profile. Weight is used for energy estimates.
 **Gameplay content.** Squads, players, sessions, matches, scores, ratings, achievements and
 invitations. Ratings and achievements are calculated on your device from your results.
 
-**Apple Health data (optional).** If you choose to link workouts, SportStat reads workout
-summaries, active energy and heart rate from Apple Health after you grant permission. You
-decide which data to allow in the Health permission sheet, and you can change this at any
-time in the Health app or Settings. Linked values (such as energy and average heart rate)
-are stored with the session they belong to. We do not write to Apple Health.
+**Workout details you type.** If you enter body weight or calories for a session, they are stored with that session and your profile. SportStat does not read from Apple Health.
 
 **Feedback you send.** If you send feedback from the app, we receive the message you write.
 
 **Camera.** Used on your device to scan a player QR code. Images are not stored or uploaded.
 
-**Notifications.** Reminders such as "Who won?" are scheduled on your device. They are local
-notifications; we do not send marketing notifications.
+**Notifications.** Reminders such as "Who won?" and your daily recap are scheduled on your device.
+They are local notifications built from your own results; we do not send marketing notifications.
+
+**Clash Hub (optional, needs an account).** If you publish a squad to the Clash Hub, its name,
+your display name as captain, your players' first names, the sports you play, your city and the
+squad's results (wins, losses, ties, points) are visible to other signed-in SportStat users on the
+leaderboard and in search. You can hide a squad from the leaderboard or remove it at any time under
+Clash Hub > My squads. Challenges you send or receive, the chat messages about them, and the shared
+live clash scores are visible only to the two captains involved.
+
+**Reporting and blocking.** Anyone using the Clash Hub can report a squad, a conversation or a message,
+and block a captain. A report sends us the item you report, its owner's account identifier, the reason
+and any note you add; only we can read reports. Blocking stops that captain from challenging or messaging you and hides their squads
+from you. We review reports and remove content or accounts that break our rules, aiming to act within
+24 hours. Contact: app.sportstat@gmail.com.
+
+**Approximate location (optional).** If you tap "Use my approximate location" when publishing a
+squad, SportStat reads your location once at reduced accuracy and stores only the city name and a
+coarse area cell of roughly 40 km with the squad, so nearby captains can find it. Your exact position
+is never stored or shared, and nothing is collected in the background. You can skip this and type a
+city instead, or turn the permission off in iOS Settings.
+
+**Sharing.** When you share a result or daily recap card, SportStat creates an image on your device
+and hands it to the iOS share sheet. You choose where it goes; SportStat does not upload it.
 
 ## Information we do not collect
 
-- No location data.
+- No precise location, and no location in the background. Only the optional approximate area described above.
 - No advertising identifier, and no tracking across other companies' apps or websites.
 - No third-party analytics or advertising SDKs. Basic usage counters used to improve the
   score-entry experience are kept on your device only.
@@ -52,6 +70,9 @@ If you join or create a **shared squad**, the squad's name, members, sessions an
 visible to the other members of that squad, including display names and player codes.
 Player codes can be used by other people to send you a squad invitation.
 
+Squads you publish to the **Clash Hub** are public to other signed-in users as described above.
+Clash results stay on the leaderboard record of the squads that played them.
+
 We use Google (Firebase Authentication and Cloud Firestore) and Apple/Google sign-in services
 to provide these features. They process data on our behalf. We do not sell your information.
 
@@ -61,11 +82,11 @@ to provide these features. They process data on our behalf. We do not sell your 
   device and keeps your account and backup.
 - **Delete your account:** Profile > Account > Delete Account permanently deletes your
   account, your cloud backup and your cloud player profile, and removes your data from this
-  device. In shared squads your name is replaced with "Deleted player" so other members'
+  device. Squads you published to the Clash Hub are deleted and your open challenges are closed.
+  Your block list is deleted too. In shared squads your name is replaced with "Deleted player" so other members'
   records remain consistent. Sign in with Apple authorization is revoked at the same time.
-- **Health access:** change or revoke at any time in the Health app or Settings.
-- **Notifications:** turn "Remind me to log results" off in Settings > Scoring, or manage
-  notifications in iOS Settings.
+- **Notifications:** turn "Remind me to log results" or "Daily recap" off in Settings > Scoring, or
+  manage notifications in iOS Settings.
 
 ## Retention
 
