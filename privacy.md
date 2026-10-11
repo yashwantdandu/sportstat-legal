@@ -3,30 +3,29 @@
 **Last updated:** 11 October 2026
 **Contact:** app.sportstat@gmail.com
 
-> DRAFT for your review. It is written from what the app does today. Have it checked
-> against your business details and local law before publishing, and host it at a public
-> URL (for example GitHub Pages) to use as the App Store Privacy Policy URL.
+portStat helps you record sports results, track ratings and streaks, and compare yourself with the people you play. This policy explains what information the app handles and why.
 
-SportStat helps you record sports results, track ratings and streaks, and compare yourself
-with the people you play. This policy explains what information the app handles and why.
+Information we handle
+Account details. If you create an account with Sign in with Apple or Google, we receive the name and email address you choose to share, and an account identifier. We use these to sign you in, back up your data, and let friends find you with your player code.
 
-## Information we handle
+Your SportStat profile. The display name, avatar, player code and, if you enter it, body weight that you add to your profile. Weight is used for energy estimates.
 
-**Account details.** If you create an account with Sign in with Apple or Google, we receive
-the name and email address you choose to share, and an account identifier. We use these to
-sign you in, back up your data, and let friends find you with your player code.
+Gameplay content. Squads, players, sessions, matches, scores, ratings, achievements and invitations. Ratings and achievements are calculated on your device from your results.
 
-**Your SportStat profile.** The display name, avatar, player code and, if you enter it, body
-weight that you add to your profile. Weight is used for energy estimates.
+Workout details you type. If you enter body weight or calories for a session, they are stored with that session and your profile. SportStat does not read from Apple Health.
 
-**Gameplay content.** Squads, players, sessions, matches, scores, ratings, achievements and
-invitations. Ratings and achievements are calculated on your device from your results.
+Feedback you send. If you send feedback from the app, we receive the message you write.
 
 **Workout details you type.** If you enter body weight or calories for a session, they are stored with that session and your profile. SportStat does not read from Apple Health.
 
-**Feedback you send.** If you send feedback from the app, we receive the message you write.
+Notifications. Reminders such as "Who won?" are scheduled on your device. They are local notifications; we do not send marketing notifications.
 
-**Camera.** Used on your device to scan a player QR code. Images are not stored or uploaded.
+Information we do not collect
+No location data.
+No advertising identifier, and no tracking across other companies' apps or websites.
+No third-party analytics or advertising SDKs. Basic usage counters used to improve the score-entry experience are kept on your device only.
+How it is stored and shared
+Your data is stored on your device. If you sign in, a backup of your players, squads, sessions and matches is stored in our cloud database (Google Firebase / Cloud Firestore) under your account so you can restore it on a new device.
 
 **Notifications.** Reminders such as "Who won?" and your daily recap are scheduled on your device.
 They are local notifications built from your own results; we do not send marketing notifications.
@@ -53,14 +52,15 @@ city instead, or turn the permission off in iOS Settings.
 **Sharing.** When you share a result or daily recap card, SportStat creates an image on your device
 and hands it to the iOS share sheet. You choose where it goes; SportStat does not upload it.
 
-## Information we do not collect
+We use Google (Firebase Authentication and Cloud Firestore) and Apple/Google sign-in services to provide these features. They process data on our behalf. We do not sell your information.
 
 - No precise location, and no location in the background. Only the optional approximate area described above.
 - No advertising identifier, and no tracking across other companies' apps or websites.
 - No third-party analytics or advertising SDKs. Basic usage counters used to improve the
   score-entry experience are kept on your device only.
 
-## How it is stored and shared
+Children
+SportStat is not directed to children under 13, and we do not knowingly collect their information. If you believe a child has provided information, contact us and we will delete it.
 
 Your data is stored on your device. If you sign in, a backup of your players, squads,
 sessions and matches is stored in our cloud database (Google Firebase / Cloud Firestore)
@@ -106,4 +106,5 @@ the app.
 
 ## Contact
 
+Contact
 Questions or requests about your information: app.sportstat@gmail.com

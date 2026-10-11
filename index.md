@@ -1,5 +1,5 @@
 # SportStat
 
-Support: your-email-here
+Support: app.sportstat@gmail.com
 
 [Privacy Policy](privacy)
