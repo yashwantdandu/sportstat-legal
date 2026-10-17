@@ -30,7 +30,7 @@ Your data is stored on your device. If you sign in, a backup of your players, sq
 **Notifications.** Reminders such as "Who won?" and your daily recap are scheduled on your device.
 They are local notifications built from your own results; we do not send marketing notifications.
 
-**Clash Hub (optional, needs an account).** If you publish a squad to the Clash Hub, its name,
+**Clash Hub (optional, needs an account).** If you publish a squad, or just yourself as a solo player, to the Clash Hub, its name,
 your display name as captain, your players' first names, the sports you play, your city and the
 squad's results (wins, losses, ties, points) are visible to other signed-in SportStat users on the
 leaderboard and in search. You can hide a squad from the leaderboard or remove it at any time under
